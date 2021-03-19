@@ -1,3 +1,5 @@
+package ifexample;
+
 import java.util.Scanner;
 
 public class Q1 {
