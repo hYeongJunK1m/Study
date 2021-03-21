@@ -8,7 +8,7 @@ public class IfExample1 {
             System.out.println("여성입니다.");
         }
         else{
-            System.out.println("여성이 아닙니다.");
+            System.out.println("남성입니다.");
         }
     }
 }
