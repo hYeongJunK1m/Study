@@ -10,7 +10,7 @@ public class StudentTest {
 
         Student studentKim = new Student();
         studentKim.studentName = "김유신";
-        studentKim.address = "경주";
+        studentKim.address = "상주";
 
         studentKim.showStudentInfo();
     }
