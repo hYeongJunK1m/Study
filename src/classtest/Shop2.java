@@ -6,12 +6,12 @@ public class Shop2 {
 
         Shop shop = new Shop();
 
-        shop.number = 201907210001L;
-        shop.id = "abc123";
-        shop.date ="2019년 7월 21일";
-        shop.name = "홍길순";
+        shop.number = 202110190001L;
+        shop.id = "HJK123";
+        shop.date ="2021년 10월 19일";
+        shop.name = "김땡땡";
         shop.orderNumber = "PD0345-12";
-        shop.home = "서울시 영등포구 여의도동 20번지";
+        shop.home = "경기도 00시 00동 000번지";
 
         System.out.println("주문 번호 :" + shop.number);
         System.out.println("주문자 아이디 :" + shop.id);
