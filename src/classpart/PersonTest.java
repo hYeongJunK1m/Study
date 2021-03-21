@@ -5,7 +5,7 @@ public class PersonTest {
 
         Person person = new Person();
         person.age = 40;
-        person.name = "James";
+        person.name = "Jimmy";
         person.married = true;
         person.childen = 3;
 
