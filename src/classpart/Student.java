@@ -6,6 +6,11 @@ public class Student {
         public String studentName;
         public String address;
 
+        public Student(int id, String name){
+            studentID = id;
+            studentName = name;
+        }
+
     public void showStudentInfo(){
         System.out.println(studentName + ", " + address);
     }
