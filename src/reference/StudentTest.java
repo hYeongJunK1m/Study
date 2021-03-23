@@ -12,5 +12,6 @@ public class StudentTest {
         studentsKim.setKoreaSubject("국어", 95);
         studentsKim.setMathSubject("수학", 100);
 
+
     }
 }
