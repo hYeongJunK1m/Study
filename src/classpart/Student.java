@@ -1,4 +1,4 @@
-package classpart;
+/*package classpart;
 
 public class Student {
 
@@ -17,4 +17,4 @@ public class Student {
     public String getStudentName(){
         return  studentName;
     }
-}
+}*/
