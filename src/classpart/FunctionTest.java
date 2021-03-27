@@ -26,7 +26,7 @@ public class FunctionTest {
 
         int total = addNum(n1,n2);
 
-        sayHello("안녕");
+        sayHello("Hi");
         int num = calcSum();
 
         System.out.println(total);
