@@ -14,6 +14,7 @@ public class StudentTest {
         studentKim.studentName = "김준서";
         studentKim.address = "소년원";
 
+
         studentKim.showStudentInfo();
     }
 
