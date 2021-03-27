@@ -9,7 +9,7 @@ public class Shop2 {
         shop.number = 202110190001L;
         shop.id = "HJK123";
         shop.date ="2021년 10월 19일";
-        shop.name = "김땡땡";
+        shop.name = "김땡";
         shop.orderNumber = "PD0345-12";
         shop.home = "경기도 00시 00동 000번지";
 
